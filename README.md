@@ -1,16 +1,21 @@
-## Hi there 👋
+### Moleculon AI
 
-<!--
-**Moleculon-AI/moleculon-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moleculon AI develops generative models and simulation pipelines for molecular design in drug discovery and materials science.
 
-Here are some ideas to get you started:
+Our platform combines diffusion and transformer-based architectures with GPU-accelerated simulations to explore chemical space and optimize novel compounds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Workloads
+
+- Distributed multi-GPU training (PyTorch)
+- High-throughput inference
+- Large-scale parallel molecular simulations
+
+## Infrastructure Needs
+
+- H100 / A100-class GPUs
+- Scalable compute for burst workloads
+- High-performance networking
+
+## Status
+
+Currently in active development and infrastructure evaluation phase.
